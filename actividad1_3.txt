@@ -14,3 +14,5 @@ credential.https://dev.azure.com.usehttppath=true
 init.defaultbranch=master
 user.name=Estefanía Sánchez Álvarez
 user.email=estefaniasanchez03@gmail.com
+
+LINEA AÑADIDA PARA COMPROBAR CAMBIOS EN GIT.
